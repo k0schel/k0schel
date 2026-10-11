@@ -26,5 +26,4 @@ Ich bin Moritz, ein 20 Jähriger Typ aus dem Internet :)
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=phyroks&icon=0&color=0)](https://visitcount.itsvg.in)
   
